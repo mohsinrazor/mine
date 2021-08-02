@@ -1,0 +1,28 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+section{
+    padding: 150px 0;
+}
+#header{
+    background: rgb(13, 22, 24);
+    color: #fff;
+    padding: 10px 0;
+}
+#header a{
+    color: antiquewhite;
+    padding: 0 10px;
+    line-height: 2.4;
+    text-decoration: none;
+}
+#header .col-lg-9{
+    text-align: right;
+}
+#herobanner{
+    background: rgb(3, 99, 116);
+    color: #fff;
+    padding: 300px 0;
+    height: 800px;
+    text-align: center;
+} 
+#portfolio{
+    background: #e7e7e7; 
+}
